@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacizli Aracınızı Anında Nakde Çevirin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #c0392b;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background-color: #e74c3c;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            font-size: 18px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact a {
+            display: inline-block;
+            background: #27ae60;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>HACİZLİ ARACINIZI ANINDA NAKDE ÇEVİRİN!</header>
+    <nav>
+        <a href="#hakkimizda">Hakkımızda</a>
+        <a href="#nedenbiz">Neden Biz?</a>
+        <a href="#iletisim">İletişim</a>
+        <a href="admin.html">Admin Girişi</a>
+        <a href="musteri.html">Müşteri Girişi</a>
+    </nav>
+    <div class="container" id="hakkimizda">
+        <h2>Hakkımızda</h2>
+        <p>Hacizli araç alımında Türkiye'nin lider firmalarından biriyiz. Uzman ekibimizle hızlı, güvenilir ve şeffaf bir hizmet sunuyoruz. Aracınızı aynı gün nakde çevirerek, stres yaşamadan satış sürecini tamamlamanızı sağlıyoruz.</p>
+    </div>
+    <div class="container" id="nedenbiz">
+        <h2>Neden Bizi Tercih Etmelisiniz?</h2>
+        <ul>
+            <li><b>Hızlı İşlem:</b> Aynı gün değerlendirme ve ödeme garantisi.</li>
+            <li><b>Güvenilir Hizmet:</b> Şeffaf süreçlerle hiçbir gizli işlem olmadan çalışıyoruz.</li>
+            <li><b>Profesyonel Ekip:</b> Alanında uzman kadromuzla hizmet veriyoruz.</li>
+            <li><b>Yerinde Değerleme:</b> Adresinize gelerek aracınızı yerinde inceliyoruz.</li>
+        </ul>
+    </div>
+    <div class="container contact" id="iletisim">
+        <h2>Bize Ulaşın</h2>
+        <p>Hemen bizi arayın veya WhatsApp üzerinden iletişime geçin.</p>
+        <a href="https://wa.me/905518891051">WhatsApp'tan Bize Ulaşın</a>
+        <p>Telefon: <b>0551 889 10 51</b></p>
+    </div>
+</body>
+</html>
