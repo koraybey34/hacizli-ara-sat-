@@ -1,1 +1,0 @@
-# hacizli-ara-sat-
